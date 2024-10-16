@@ -1,2 +1,2 @@
-# sql_github
- SQL: The Practical Guide
+# SQL: The Practical Guide
+ Code samples from the book
