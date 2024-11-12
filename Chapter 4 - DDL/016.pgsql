@@ -1,0 +1,1 @@
+ALTER SCHEMA { schema_name } OWNER TO { new_owner };

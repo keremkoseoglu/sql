@@ -1,0 +1,1 @@
+ALTER DATABASE { database_name } { parameter_name } { parameter_value };

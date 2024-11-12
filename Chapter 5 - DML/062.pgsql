@@ -1,0 +1,1 @@
+DROP FUNCTION return_cancelled_tickets;

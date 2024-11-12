@@ -1,0 +1,7 @@
+ALTER ROLE manager
+WITH
+    SUPERUSER;
+
+ALTER ROLE manager
+WITH
+    NOSUPERUSER;

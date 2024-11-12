@@ -1,0 +1,1 @@
+INSERT INTO { table_name } ( [ column_names ] ) { selection };

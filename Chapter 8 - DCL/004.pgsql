@@ -1,0 +1,3 @@
+CREATE USER alice
+WITH
+    SUPERUSER PASSWORD 'securePass123';

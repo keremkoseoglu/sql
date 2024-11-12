@@ -1,0 +1,1 @@
+CALL reset_and_populate_bank_data ();

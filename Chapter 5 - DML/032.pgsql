@@ -1,0 +1,1 @@
+TRUNCATE TABLE ticket_sale_item;

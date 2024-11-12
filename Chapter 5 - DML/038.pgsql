@@ -1,0 +1,1 @@
+CALL add_theater ('LUNA', 'Luna Vista', 500);

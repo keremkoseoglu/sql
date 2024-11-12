@@ -1,0 +1,3 @@
+CREATE USER kerems
+WITH
+    PASSWORD '1234';

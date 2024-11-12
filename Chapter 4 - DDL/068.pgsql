@@ -1,0 +1,2 @@
+ALTER TABLE employee_bonus
+DROP CONSTRAINT employee_bonus_chk1;

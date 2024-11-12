@@ -1,0 +1,4 @@
+SELECT
+    CURRENT_DATE AS cda,
+    CURRENT_TIME AS cti,
+    CURRENT_TIMESTAMP cts;

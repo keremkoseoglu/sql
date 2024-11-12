@@ -1,0 +1,1 @@
+CREATE ROLE manager_role;

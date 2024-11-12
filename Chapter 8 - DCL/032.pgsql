@@ -1,0 +1,1 @@
+GRANT manager_role TO lucas_bennett;

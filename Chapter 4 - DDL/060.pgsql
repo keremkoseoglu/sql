@@ -1,0 +1,7 @@
+ALTER TABLE employee
+ALTER COLUMN child_count
+DROP DEFAULT;
+
+ALTER TABLE employee
+ALTER COLUMN child_count
+DROP NOT NULL;

@@ -1,0 +1,1 @@
+CALL create_mock_ticket_data ();

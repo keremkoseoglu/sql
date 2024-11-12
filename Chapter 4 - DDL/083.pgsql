@@ -1,0 +1,1 @@
+CREATE OR REPLACE VIEW { view_name } AS { new_dql_code };

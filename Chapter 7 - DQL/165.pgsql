@@ -1,0 +1,1 @@
+CAST(EXPRESSION AS target_type);

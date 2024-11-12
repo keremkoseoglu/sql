@@ -1,0 +1,7 @@
+ALTER TABLE employee
+ALTER COLUMN child_count
+SET DEFAULT 0;
+
+ALTER TABLE employee
+ALTER COLUMN child_count
+SET NOT NULL;

@@ -1,0 +1,1 @@
+GRANT ALL PRIVILEGES ON sales_customer TO sophia_reed;

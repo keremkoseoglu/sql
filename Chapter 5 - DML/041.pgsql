@@ -1,0 +1,1 @@
+CALL add_theater ('MINI', 'Mini', 100);

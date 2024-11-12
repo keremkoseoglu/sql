@@ -1,0 +1,1 @@
+ALTER TABLE EVENT DISABLE TRIGGER event_cancel_ticket_return;

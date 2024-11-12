@@ -1,0 +1,2 @@
+ALTER VIEW employee_with_many_children
+RENAME TO employees_with_many_children;

@@ -1,0 +1,2 @@
+LTER SCHEMA public2
+RENAME TO public3;

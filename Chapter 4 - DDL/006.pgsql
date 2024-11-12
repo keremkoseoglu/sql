@@ -1,0 +1,3 @@
+CREATE USER keremk
+WITH
+    PASSWORD '1234';

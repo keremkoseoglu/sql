@@ -1,0 +1,3 @@
+ALTER TABLE employee
+ALTER COLUMN child_count
+SET DATA TYPE INT;

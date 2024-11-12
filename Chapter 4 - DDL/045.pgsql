@@ -1,0 +1,2 @@
+ALTER TABLE employee_bonus_payment
+RENAME TO employee_bonus_pay;

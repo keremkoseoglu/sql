@@ -1,0 +1,3 @@
+ALTER DATABASE playground3 CONNECTION
+LIMIT
+    200;

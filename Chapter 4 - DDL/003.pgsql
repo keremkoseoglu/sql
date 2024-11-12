@@ -1,0 +1,1 @@
+ALTER DATABASE { existing_name } RENAME TO { new_name };

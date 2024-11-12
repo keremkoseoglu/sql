@@ -1,0 +1,3 @@
+CREATE ROLE manager
+WITH
+    SUPERUSER;
